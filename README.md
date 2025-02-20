@@ -45,12 +45,12 @@ Este diagrama representa a arquitetura de uma solução baseada em microserviço
 
 ## Melhores Práticas de Engenharia
 
-- **Desacoplamento**: Mantenha os microserviços desacoplados para facilitar a manutenção e escalabilidade.
-- **Automação**: Utilize pipelines de CI/CD para automatizar testes e deploys.
-- **Monitoramento**: Implemente monitoramento e logging para detectar e resolver problemas rapidamente.
-- **Segurança**: Utilize protocolos de segurança como OAuth2 e TLS/SSL para proteger as comunicações.
-- **Escalabilidade**: Utilize balanceadores de carga e orquestração para escalar a aplicação conforme necessário.
-- **Documentação**: Mantenha a documentação atualizada para facilitar a compreensão e manutenção da arquitetura.
+- **Desacoplamento**: Microserviços desacoplados para facilitar a manutenção e escalabilidade.
+- **Automação**: Pipelines de CI/CD para automatizar testes e deploys.
+- **Monitoramento**: Monitoramento e logging para detectar e resolver problemas rapidamente.
+- **Segurança**: Protocolos de segurança como OAuth2 e TLS/SSL para proteger as comunicações.
+- **Escalabilidade**: Balanceadores de carga e orquestração para escalar a aplicação conforme necessário.
+- **Documentação**: Via de regra, manter a documentação atualizada para facilitar a compreensão e manutenção da arquitetura.
 
 ## Diagrama PlantUML
 ![image](https://github.com/user-attachments/assets/cf853670-83f0-41e0-b81a-2897d07a7f68)
